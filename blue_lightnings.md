@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: blue lightnings 
+title: "blue lightnings" 
 --- 
 
 # [R-tist](/Rtist) 

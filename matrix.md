@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: matrix 
+title: "matrix" 
 --- 
 
 # [R-tist](/Rtist) 

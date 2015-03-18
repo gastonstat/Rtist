@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: blue milkyway 
+title: "blue milkyway" 
 --- 
 
 # [R-tist](/Rtist) 

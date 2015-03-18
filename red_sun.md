@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: red sun 
+title: "red sun" 
 --- 
 
 # [R-tist](/Rtist) 

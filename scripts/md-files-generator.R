@@ -29,7 +29,7 @@ for (i in 1:num_files) {
   # yaml header
   cat(file = outfiles[i], "---", "\n")
   cat(file = outfiles[i], "layout: page", "\n", append = TRUE)
-  cat(file = outfiles[i], sprintf("title: %s", img_titles[i]), 
+  cat(file = outfiles[i], sprintf("title: \"%s\"", img_titles[i]), 
       "\n", append = TRUE)
   cat(file = outfiles[i], "---", "\n\n", append = TRUE)
   

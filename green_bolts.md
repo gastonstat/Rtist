@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: green bolts 
+title: "green bolts" 
 --- 
 
 # [R-tist](/Rtist) 

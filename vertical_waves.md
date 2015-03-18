@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: vertical waves 
+title: "vertical waves" 
 --- 
 
 # [R-tist](/Rtist) 

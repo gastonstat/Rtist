@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: pink barbs 
+title: "pink barbs" 
 --- 
 
 # [R-tist](/Rtist) 

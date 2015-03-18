@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: shock lines 
+title: "shock lines" 
 --- 
 
 # [R-tist](/Rtist) 

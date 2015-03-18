@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: red yarns 
+title: "red yarns" 
 --- 
 
 # [R-tist](/Rtist) 

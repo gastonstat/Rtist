@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: rays 
+title: "rays" 
 --- 
 
 # [R-tist](/Rtist) 

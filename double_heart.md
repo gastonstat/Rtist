@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: double heart 
+title: "double heart" 
 --- 
 
 # [R-tist](/Rtist) 

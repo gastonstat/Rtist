@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: rainbow waves 
+title: "rainbow waves" 
 --- 
 
 # [R-tist](/Rtist) 

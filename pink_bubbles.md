@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: pink bubbles 
+title: "pink bubbles" 
 --- 
 
 # [R-tist](/Rtist) 

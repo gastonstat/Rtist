@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: concentric circles 
+title: "concentric circles" 
 --- 
 
 # [R-tist](/Rtist) 
