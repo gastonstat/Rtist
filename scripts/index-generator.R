@@ -1,7 +1,7 @@
 
 setwd("/Users/Gaston/Documents/Rtist/")
 
-images = system("ls images", intern = TRUE)
+images = system("ls images/rtist/", intern = TRUE)
 
 img_names = strsplit(images, split=".", fixed=TRUE)
 img_names = unlist(lapply(img_names, function(x) x[1]))
