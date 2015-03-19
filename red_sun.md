@@ -7,7 +7,7 @@ title: "red sun"
 
 ### red sun 
 
-![](../images/rtist/red_sun.png) 
+![red sun](/images/rtist/red_sun.png) 
 
 -----
 

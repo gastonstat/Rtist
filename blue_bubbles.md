@@ -7,7 +7,7 @@ title: "blue bubbles"
 
 ### blue bubbles 
 
-![](../images/rtist/blue_bubbles.png) 
+![blue bubbles](/images/rtist/blue_bubbles.png) 
 
 -----
 

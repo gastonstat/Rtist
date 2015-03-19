@@ -7,7 +7,7 @@ title: "weave"
 
 ### weave 
 
-![](../images/rtist/weave.png) 
+![weave](/images/rtist/weave.png) 
 
 -----
 

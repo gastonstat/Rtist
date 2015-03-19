@@ -7,7 +7,7 @@ title: "purple milkyway"
 
 ### purple milkyway 
 
-![](../images/rtist/purple_milkyway.png) 
+![purple milkyway](/images/rtist/purple_milkyway.png) 
 
 -----
 

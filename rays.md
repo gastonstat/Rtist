@@ -7,7 +7,7 @@ title: "rays"
 
 ### rays 
 
-![](../images/rtist/rays.png) 
+![rays](/images/rtist/rays.png) 
 
 -----
 

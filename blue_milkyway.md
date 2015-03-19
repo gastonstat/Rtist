@@ -7,7 +7,7 @@ title: "blue milkyway"
 
 ### blue milkyway 
 
-![](../images/rtist/blue_milkyway.png) 
+![blue milkyway](/images/rtist/blue_milkyway.png) 
 
 -----
 

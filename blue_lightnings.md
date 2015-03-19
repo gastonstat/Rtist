@@ -7,7 +7,7 @@ title: "blue lightnings"
 
 ### blue lightnings 
 
-![](../images/rtist/blue_lightnings.png) 
+![blue lightnings](/images/rtist/blue_lightnings.png) 
 
 -----
 

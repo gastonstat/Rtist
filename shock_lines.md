@@ -7,7 +7,7 @@ title: "shock lines"
 
 ### shock lines 
 
-![](../images/rtist/shock_lines.png) 
+![shock lines](/images/rtist/shock_lines.png) 
 
 -----
 

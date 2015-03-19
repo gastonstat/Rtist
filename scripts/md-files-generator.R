@@ -37,7 +37,9 @@ for (i in 1:num_files) {
   cat(file = outfiles[i], "# [R-tist](/Rtist)", "\n\n", append = TRUE)
   cat(file = outfiles[i], sprintf("### %s", img_titles[i]), 
       "\n\n", append = TRUE)
-  cat(file = outfiles[i], sprintf("![](../images/rtist/%s)", images[i]), 
+  cat(file = outfiles[i], 
+      sprintf("![%s](/images/rtist/%s)", 
+              img_titles[i], images[i]), 
       "\n\n", append = TRUE)
 
   cat(file = outfiles[i], "-----", "\n\n", sep = '', append = TRUE)

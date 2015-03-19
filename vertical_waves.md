@@ -7,7 +7,7 @@ title: "vertical waves"
 
 ### vertical waves 
 
-![](../images/rtist/vertical_waves.png) 
+![vertical waves](/images/rtist/vertical_waves.png) 
 
 -----
 

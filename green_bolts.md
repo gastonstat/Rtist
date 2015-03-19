@@ -7,7 +7,7 @@ title: "green bolts"
 
 ### green bolts 
 
-![](../images/rtist/green_bolts.png) 
+![green bolts](/images/rtist/green_bolts.png) 
 
 -----
 
