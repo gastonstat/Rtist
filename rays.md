@@ -3,11 +3,11 @@ layout: page
 title: "rays"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### rays 
 
-![](../images/rays.png) 
+![](../images/rtist/rays.png) 
 
 -----
 

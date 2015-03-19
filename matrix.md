@@ -3,11 +3,11 @@ layout: page
 title: "matrix"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### matrix 
 
-![](../images/matrix.png) 
+![](../images/rtist/matrix.png) 
 
 -----
 

@@ -3,11 +3,11 @@ layout: page
 title: "double heart"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### double heart 
 
-![](../images/double_heart.png) 
+![](../images/rtist/double_heart.png) 
 
 -----
 

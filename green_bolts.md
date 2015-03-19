@@ -3,11 +3,11 @@ layout: page
 title: "green bolts"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### green bolts 
 
-![](../images/green_bolts.png) 
+![](../images/rtist/green_bolts.png) 
 
 -----
 

@@ -3,11 +3,11 @@ layout: page
 title: "blue lightnings"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### blue lightnings 
 
-![](../images/blue_lightnings.png) 
+![](../images/rtist/blue_lightnings.png) 
 
 -----
 

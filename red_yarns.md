@@ -3,11 +3,11 @@ layout: page
 title: "red yarns"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### red yarns 
 
-![](../images/red_yarns.png) 
+![](../images/rtist/red_yarns.png) 
 
 -----
 

@@ -3,11 +3,11 @@ layout: page
 title: "concentric circles"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### concentric circles 
 
-![](../images/concentric_circles.png) 
+![](../images/rtist/concentric_circles.png) 
 
 -----
 

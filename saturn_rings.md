@@ -3,11 +3,11 @@ layout: page
 title: "saturn rings"
 ---
 
-# [R-tist](/) 
+# [R-tist](/Rtist) 
 
 ### saturn rings 
 
-![](../images/saturn_rings.png) 
+![](../images/rtist/saturn_rings.png) 
 
 -----
 

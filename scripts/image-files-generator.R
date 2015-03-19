@@ -13,5 +13,5 @@ for (i in seq_along(Rfiles)) {
 }
 
 # move image files to respective folder
-system("mv *.png images/")
+system("mv *.png images/rtist/")
 
