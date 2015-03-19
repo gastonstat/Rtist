@@ -3,11 +3,11 @@ layout: page
 title: "blue milkyway"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### blue milkyway 
 
-![](/images/blue_milkyway.png) 
+![](../images/blue_milkyway.png) 
 
 -----
 

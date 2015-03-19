@@ -3,11 +3,11 @@ layout: page
 title: "purple milkyway"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### purple milkyway 
 
-![](/images/purple_milkyway.png) 
+![](../images/purple_milkyway.png) 
 
 -----
 

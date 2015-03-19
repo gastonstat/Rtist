@@ -3,11 +3,11 @@ layout: page
 title: "blue bubbles"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### blue bubbles 
 
-![](/images/blue_bubbles.png) 
+![](../images/blue_bubbles.png) 
 
 -----
 

@@ -3,11 +3,11 @@ layout: page
 title: "shock lines"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### shock lines 
 
-![](/images/shock_lines.png) 
+![](../images/shock_lines.png) 
 
 -----
 

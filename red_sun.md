@@ -3,11 +3,11 @@ layout: page
 title: "red sun"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### red sun 
 
-![](/images/red_sun.png) 
+![](../images/red_sun.png) 
 
 -----
 

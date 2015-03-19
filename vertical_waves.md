@@ -3,11 +3,11 @@ layout: page
 title: "vertical waves"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### vertical waves 
 
-![](/images/vertical_waves.png) 
+![](../images/vertical_waves.png) 
 
 -----
 

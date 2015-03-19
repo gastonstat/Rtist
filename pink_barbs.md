@@ -3,11 +3,11 @@ layout: page
 title: "pink barbs"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### pink barbs 
 
-![](/images/pink_barbs.png) 
+![](../images/pink_barbs.png) 
 
 -----
 

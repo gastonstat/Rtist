@@ -3,11 +3,11 @@ layout: page
 title: "weave"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### weave 
 
-![](/images/weave.png) 
+![](../images/weave.png) 
 
 -----
 

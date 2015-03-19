@@ -3,11 +3,11 @@ layout: page
 title: "rainbow waves"
 ---
 
-# [R-tist](/Rtist) 
+# [R-tist](/) 
 
 ### rainbow waves 
 
-![](/images/rainbow_waves.png) 
+![](../images/rainbow_waves.png) 
 
 -----
 
