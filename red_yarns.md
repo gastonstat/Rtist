@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "red yarns" 
---- 
+---
+layout: page
+title: "red yarns"
+---
 
 # [R-tist](/Rtist) 
 
-### red_yarns 
+### red yarns 
 
 ![](/images/red_yarns.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

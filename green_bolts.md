@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "green bolts" 
---- 
+---
+layout: page
+title: "green bolts"
+---
 
 # [R-tist](/Rtist) 
 
-### green_bolts 
+### green bolts 
 
 ![](/images/green_bolts.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

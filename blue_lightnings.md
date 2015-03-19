@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "blue lightnings" 
---- 
+---
+layout: page
+title: "blue lightnings"
+---
 
 # [R-tist](/Rtist) 
 
-### blue_lightnings 
+### blue lightnings 
 
 ![](/images/blue_lightnings.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "rainbow waves" 
---- 
+---
+layout: page
+title: "rainbow waves"
+---
 
 # [R-tist](/Rtist) 
 
-### rainbow_waves 
+### rainbow waves 
 
 ![](/images/rainbow_waves.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

@@ -27,18 +27,20 @@ for (i in 1:num_files) {
   file_content <- readLines(sprintf("R/%s", Rfiles[i]), warn = FALSE)
   
   # yaml header
-  cat(file = outfiles[i], "---", "\n")
-  cat(file = outfiles[i], "layout: page", "\n", append = TRUE)
+  cat(file = outfiles[i], "---", "\n", sep = '')
+  cat(file = outfiles[i], "layout: page", "\n", sep = '', append = TRUE)
   cat(file = outfiles[i], sprintf("title: \"%s\"", img_titles[i]), 
-      "\n", append = TRUE)
-  cat(file = outfiles[i], "---", "\n\n", append = TRUE)
+      "\n", sep = '', append = TRUE)
+  cat(file = outfiles[i], "---", "\n\n", sep = '', append = TRUE)
   
   # add page title and image
   cat(file = outfiles[i], "# [R-tist](/Rtist)", "\n\n", append = TRUE)
-  cat(file = outfiles[i], sprintf("### %s", img_names[i]), 
+  cat(file = outfiles[i], sprintf("### %s", img_titles[i]), 
       "\n\n", append = TRUE)
   cat(file = outfiles[i], sprintf("![](/images/%s)", images[i]), 
       "\n\n", append = TRUE)
+
+  cat(file = outfiles[i], "-----", "\n\n", sep = '', append = TRUE)
   
   # add R code
   cat(file = outfiles[i], "{% highlight r %}", "\n", append = TRUE)

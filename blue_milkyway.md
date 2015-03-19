@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "blue milkyway" 
---- 
+---
+layout: page
+title: "blue milkyway"
+---
 
 # [R-tist](/Rtist) 
 
-### blue_milkyway 
+### blue milkyway 
 
 ![](/images/blue_milkyway.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

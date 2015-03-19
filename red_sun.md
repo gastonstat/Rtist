@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "red sun" 
---- 
+---
+layout: page
+title: "red sun"
+---
 
 # [R-tist](/Rtist) 
 
-### red_sun 
+### red sun 
 
 ![](/images/red_sun.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

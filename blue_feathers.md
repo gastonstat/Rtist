@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "blue feathers" 
---- 
+---
+layout: page
+title: "blue feathers"
+---
 
 # [R-tist](/Rtist) 
 
-### blue_feathers 
+### blue feathers 
 
 ![](/images/blue_feathers.png) 
+
+-----
 
 {% highlight r %} 
 # ============================================================= 

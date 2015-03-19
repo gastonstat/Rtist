@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "matrix" 
---- 
+---
+layout: page
+title: "matrix"
+---
 
 # [R-tist](/Rtist) 
 
 ### matrix 
 
 ![](/images/matrix.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

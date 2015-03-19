@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "vertical waves" 
---- 
+---
+layout: page
+title: "vertical waves"
+---
 
 # [R-tist](/Rtist) 
 
-### vertical_waves 
+### vertical waves 
 
 ![](/images/vertical_waves.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "purple milkyway" 
---- 
+---
+layout: page
+title: "purple milkyway"
+---
 
 # [R-tist](/Rtist) 
 
-### purple_milkyway 
+### purple milkyway 
 
 ![](/images/purple_milkyway.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "blue bubbles" 
---- 
+---
+layout: page
+title: "blue bubbles"
+---
 
 # [R-tist](/Rtist) 
 
-### blue_bubbles 
+### blue bubbles 
 
 ![](/images/blue_bubbles.png) 
+
+-----
 
 {% highlight r %} 
 # ============================================================= 

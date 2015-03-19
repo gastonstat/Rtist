@@ -1,7 +1,7 @@
 
 setwd("/Users/Gaston/Documents/Rtist/")
 
-images = system("ls images/rtist", intern = TRUE)
+images = system("ls images", intern = TRUE)
 
 img_names = strsplit(images, split=".", fixed=TRUE)
 img_names = unlist(lapply(img_names, function(x) x[1]))
@@ -13,10 +13,11 @@ index = "/Users/Gaston/Documents/Rtist/index.html"
 # start writing output to 'index' file
 
 # yaml header
-cat(file = index, "---", "\n")
-cat(file = index, "layout: flexible", "\n", append = TRUE)
-cat(file = index, "title: R-tist", "\n", append = TRUE)
-cat(file = index, "---", "\n\n", append = TRUE)
+cat(file = index, "---", "\n", sep = '')
+cat(file = index, "layout: flexible", "\n", sep = '', append = TRUE)
+cat(file = index, "title: R-tist", "\n", sep = '', append = TRUE)
+cat(file = index, "---", append = TRUE)
+cat(file = index, "\n\n", append = TRUE)
 
 # add page title and abstract description
 cat(file = index, "<div class=\"prose\">", "\n", append = TRUE)
@@ -29,8 +30,8 @@ cat(file = index, "</div>", "\n\n", append = TRUE)
 cat(file = index, "<div id=\"gallery\">", "\n", append = TRUE)
 
 
-href = "  <a href=\"/work/rtist/"
-img = "  <img class=\"mosaic\" src=\"/images/rtist/"
+href <- "  <a href=\""
+img <- "  <img class=\"mosaic\" src=\"/images/"
 
 for (i in 1L:length(img_names)) 
 {

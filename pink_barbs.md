@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "pink barbs" 
---- 
+---
+layout: page
+title: "pink barbs"
+---
 
 # [R-tist](/Rtist) 
 
-### pink_barbs 
+### pink barbs 
 
 ![](/images/pink_barbs.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

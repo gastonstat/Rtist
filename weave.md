@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "weave" 
---- 
+---
+layout: page
+title: "weave"
+---
 
 # [R-tist](/Rtist) 
 
 ### weave 
 
 ![](/images/weave.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

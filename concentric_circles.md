@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "concentric circles" 
---- 
+---
+layout: page
+title: "concentric circles"
+---
 
 # [R-tist](/Rtist) 
 
-### concentric_circles 
+### concentric circles 
 
 ![](/images/concentric_circles.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

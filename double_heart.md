@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "double heart" 
---- 
+---
+layout: page
+title: "double heart"
+---
 
 # [R-tist](/Rtist) 
 
-### double_heart 
+### double heart 
 
 ![](/images/double_heart.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 

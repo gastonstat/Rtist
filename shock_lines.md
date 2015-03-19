@@ -1,13 +1,15 @@
---- 
-layout: page 
-title: "shock lines" 
---- 
+---
+layout: page
+title: "shock lines"
+---
 
 # [R-tist](/Rtist) 
 
-### shock_lines 
+### shock lines 
 
 ![](/images/shock_lines.png) 
+
+-----
 
 {% highlight r %} 
 # ======================================================================== 
