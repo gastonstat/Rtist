@@ -1,7 +1,13 @@
-author: Gaston Sanchez
-description: My personal website and blog about data analysis, applied statistics, R
-highlighter: pygments
-permalink: /blog/:categories/:year/:month/:day/:title.html
-markdown: kramdown
-exclude: ["Rmd", ".DS_Store", "README.md"]
-excerpt_separator: <!--more-->
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Site settings
+title: Rtist
+description: >
+  Abstract paintings and plots in R by Gaston Sanchez
+baseurl: "http://gastonsanchez.com/Rtist"
+url: "http://gastonsanchez.com/Rtist"
+
+sass:
+  style: compressed
