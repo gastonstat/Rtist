@@ -3,7 +3,7 @@ layout: page
 title: "Pink Bubbles"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Pink Bubbles 
 

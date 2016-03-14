@@ -3,7 +3,7 @@ layout: page
 title: "Green Bolts"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Green Bolts 
 

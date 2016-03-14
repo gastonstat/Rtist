@@ -3,7 +3,7 @@ layout: page
 title: "Vertical Waves"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Vertical Waves 
 

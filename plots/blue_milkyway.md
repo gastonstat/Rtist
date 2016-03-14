@@ -3,7 +3,7 @@ layout: page
 title: "Blue Milkyway"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Blue Milkyway 
 

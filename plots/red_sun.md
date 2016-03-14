@@ -3,7 +3,7 @@ layout: page
 title: "Red Sun"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Red Sun 
 

@@ -3,7 +3,7 @@ layout: page
 title: "Pink Barbs"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Pink Barbs 
 

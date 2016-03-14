@@ -3,7 +3,7 @@ layout: page
 title: "Red Yarns"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Red Yarns 
 

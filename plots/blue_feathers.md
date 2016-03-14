@@ -3,7 +3,7 @@ layout: page
 title: "Blue Feathers"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Blue Feathers 
 

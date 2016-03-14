@@ -34,7 +34,7 @@ for (i in 1:num_files) {
   cat(file = outfiles[i], "---", "\n\n", sep = '', append = TRUE)
   
   # add page title and image
-  cat(file = outfiles[i], "# [Rtist](/)", "\n\n", append = TRUE)
+  cat(file = outfiles[i], "# [Rtist](/Rtist)", "\n\n", append = TRUE)
   cat(file = outfiles[i], sprintf("### %s", img_titles[i]), 
       "\n\n", append = TRUE)
   cat(file = outfiles[i], 

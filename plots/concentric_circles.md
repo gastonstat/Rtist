@@ -3,7 +3,7 @@ layout: page
 title: "Concentric Circles"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Concentric Circles 
 

@@ -3,7 +3,7 @@ layout: page
 title: "Blue Bubbles"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Blue Bubbles 
 

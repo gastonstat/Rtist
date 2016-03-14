@@ -3,7 +3,7 @@ layout: page
 title: "Blue Lightnings"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Blue Lightnings 
 

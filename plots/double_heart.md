@@ -3,7 +3,7 @@ layout: page
 title: "Double Heart"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Double Heart 
 

@@ -3,7 +3,7 @@ layout: page
 title: "Rainbow Waves"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Rainbow Waves 
 

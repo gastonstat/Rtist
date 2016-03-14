@@ -3,7 +3,7 @@ layout: page
 title: "Saturn Rings"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Saturn Rings 
 

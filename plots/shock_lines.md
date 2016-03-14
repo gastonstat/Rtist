@@ -3,7 +3,7 @@ layout: page
 title: "Shock Lines"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Shock Lines 
 

@@ -3,7 +3,7 @@ layout: page
 title: "Blue Rings"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Blue Rings 
 

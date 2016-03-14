@@ -3,7 +3,7 @@ layout: page
 title: "Rays"
 ---
 
-# [Rtist](/) 
+# [Rtist](/Rtist) 
 
 ### Rays 
 
