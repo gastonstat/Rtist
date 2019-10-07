@@ -6,7 +6,7 @@ highlighter:      rouge
 title: Rtist
 description: >
   Abstract paintings and plots in R by Gaston Sanchez
-baseurl: "http://gastonsanchez.com/Rtist"
+baseurl: "/Rtist"
 url: "http://gastonsanchez.com/Rtist"
 
 sass:
