@@ -7,7 +7,7 @@ title: Rtist
 description: >
   Abstract paintings and plots in R by Gaston Sanchez
 baseurl: "/Rtist"
-url: "http://gastonsanchez.com/Rtist"
+url: "https://www.gastonsanchez.com"
 
 sass:
   style: compressed
